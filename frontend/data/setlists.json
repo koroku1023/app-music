@@ -1,0 +1,12 @@
+[
+  {
+    "festivalId": "f0000001",
+    "artistId": "a0000001",
+    "songs": ["アイドル", "群青", "夜に駆ける"]
+  },
+  {
+    "festivalId": "f0000001",
+    "artistId": "a0000002",
+    "songs": ["Pretender", "宿命", "Subtitle"]
+  }
+]

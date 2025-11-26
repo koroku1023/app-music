@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f0000001",
+    "name": "SUMMER SONIC 2025",
+    "date": "2025-08-17",
+    "location": "幕張メッセ",
+    "artists": ["RADWIMPS", "サカナクション", "YOASOBI"],
+    "image": { "hero": "local:f000000001" },
+    "description": "国内最大級の都市型フェス。"
+  }
+]
